@@ -43,6 +43,7 @@ body{
     font-size: 100%;
 }
 
+
 .affiliation a:hover{
     text-decoration: none;
 }
@@ -71,6 +72,10 @@ hr{
 
 .footer{
     float: clear;
+}
+
+.footer h4 a{
+    color: #676e70;
 }
 
 .links{
